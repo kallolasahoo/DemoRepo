@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Saal Application Test Automation Suit]">
+  <test thread-count="5" name="Saal Application Test cases(failed)">
+    <classes>
+      <class name="com.saal.testcases.LoginPageTest">
+        <methods>
+          <include name="loginpageTitleTest"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.saal.testcases.LoginPageTest -->
+      <class name="com.saal.testcases.WomenPageTest">
+        <methods>
+          <include name="checkCatagoriesByidcheckBox"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.saal.testcases.WomenPageTest -->
+      <class name="com.saal.testcases.HomePageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="verifyHomePageTitleTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.saal.testcases.HomePageTest -->
+    </classes>
+  </test> <!-- Saal Application Test cases(failed) -->
+</suite> <!-- Failed suite [Saal Application Test Automation Suit] -->

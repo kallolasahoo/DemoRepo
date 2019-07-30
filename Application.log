@@ -1,0 +1,147 @@
+[main] INFO  com.saal.qa.utils.WebEventListener  - Before navigating to: 'http://automationpractice.com'
+[main] INFO  com.saal.qa.utils.WebEventListener  - Navigated to:'http://automationpractice.com'
+[main] INFO  com.saal.qa.utils.WebEventListener  - Trying to find Element By : By.name: email
+[main] INFO  com.saal.qa.utils.WebEventListener  - Found Element By : By.name: email
+[main] INFO  com.saal.qa.utils.WebEventListener  - Trying to find Element By : By.name: passwd
+[main] INFO  com.saal.qa.utils.WebEventListener  - Exception Occured:org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"name","selector":"passwd"}
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AIPL-LT-711', ip: '10.4.48.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\ksahoo\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:50492}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: 1b8212521493cb54b1fe8b7d1cb86e8d
+*** Element info: {Using=name, value=passwd}
+[main] INFO  com.saal.qa.utils.WebEventListener  - Before navigating to: 'http://automationpractice.com'
+[main] INFO  com.saal.qa.utils.WebEventListener  - Navigated to:'http://automationpractice.com'
+[main] INFO  com.saal.qa.utils.WebEventListener  - Before navigating to: 'http://automationpractice.com'
+[main] INFO  com.saal.qa.utils.WebEventListener  - Navigated to:'http://automationpractice.com'
+[main] INFO  com.saal.qa.utils.WebEventListener  - Trying to find Element By : By.name: email
+[main] INFO  com.saal.qa.utils.WebEventListener  - Found Element By : By.name: email
+[main] INFO  com.saal.qa.utils.WebEventListener  - Trying to find Element By : By.name: passwd
+[main] INFO  com.saal.qa.utils.WebEventListener  - Exception Occured:org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"name","selector":"passwd"}
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AIPL-LT-711', ip: '10.4.48.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\ksahoo\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:50593}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: 467f4152bbda39ff21f365caad616d6a
+*** Element info: {Using=name, value=passwd}
+[main] INFO  com.saal.qa.utils.WebEventListener  - Before navigating to: 'http://automationpractice.com'
+[main] INFO  com.saal.qa.utils.WebEventListener  - Navigated to:'http://automationpractice.com'
+[main] INFO  com.saal.qa.utils.WebEventListener  - Trying to find Element By : By.name: email
+[main] INFO  com.saal.qa.utils.WebEventListener  - Found Element By : By.name: email
+[main] INFO  com.saal.qa.utils.WebEventListener  - Trying to find Element By : By.name: passwd
+[main] INFO  com.saal.qa.utils.WebEventListener  - Exception Occured:org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"name","selector":"passwd"}
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AIPL-LT-711', ip: '10.4.48.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\ksahoo\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61018}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: 2e4012e20262f4ea96dd332094025d95
+*** Element info: {Using=name, value=passwd}
+[main] INFO  com.saal.qa.utils.WebEventListener  - Before navigating to: 'http://automationpractice.com'
+[main] INFO  com.saal.qa.utils.WebEventListener  - Navigated to:'http://automationpractice.com'
+[main] INFO  com.saal.qa.utils.WebEventListener  - Before navigating to: 'http://automationpractice.com'
+[main] INFO  com.saal.qa.utils.WebEventListener  - Navigated to:'http://automationpractice.com'
+[main] INFO  com.saal.qa.utils.WebEventListener  - Trying to find Element By : By.name: email
+[main] INFO  com.saal.qa.utils.WebEventListener  - Found Element By : By.name: email
+[main] INFO  com.saal.qa.utils.WebEventListener  - Trying to find Element By : By.name: passwd
+[main] INFO  com.saal.qa.utils.WebEventListener  - Exception Occured:org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"name","selector":"passwd"}
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AIPL-LT-711', ip: '10.4.48.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\ksahoo\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61120}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: b4f9ea152760900ea74e69efd9d77ba1
+*** Element info: {Using=name, value=passwd}
+[main] INFO  com.saal.qa.utils.WebEventListener  - Before navigating to: 'http://automationpractice.com'
+[main] INFO  com.saal.qa.utils.WebEventListener  - Navigated to:'http://automationpractice.com'
+[main] INFO  com.saal.qa.utils.WebEventListener  - Trying to find Element By : By.xpath: //a[contains(text(),'Sign in']
+[main] INFO  com.saal.qa.utils.WebEventListener  - Exception Occured:org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //a[contains(text(),'Sign in'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//a[contains(text(),'Sign in']' is not a valid XPath expression.
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AIPL-LT-711', ip: '10.4.48.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\ksahoo\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61853}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: 201cece95fa8cff6f154bad541326965
+*** Element info: {Using=xpath, value=//a[contains(text(),'Sign in']}
+[main] INFO  com.saal.qa.utils.WebEventListener  - Before navigating to: 'http://automationpractice.com'
+[main] INFO  com.saal.qa.utils.WebEventListener  - Navigated to:'http://automationpractice.com'
+[main] INFO  com.saal.qa.utils.WebEventListener  - Before navigating to: 'http://automationpractice.com'
+[main] INFO  com.saal.qa.utils.WebEventListener  - Navigated to:'http://automationpractice.com'
+[main] INFO  com.saal.qa.utils.WebEventListener  - Trying to find Element By : By.xpath: //a[contains(text(),'Sign in']
+[main] INFO  com.saal.qa.utils.WebEventListener  - Exception Occured:org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //a[contains(text(),'Sign in'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//a[contains(text(),'Sign in']' is not a valid XPath expression.
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AIPL-LT-711', ip: '10.4.48.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\ksahoo\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61942}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: 8947e7deb5284b3eb0c35d5777b9e072
+*** Element info: {Using=xpath, value=//a[contains(text(),'Sign in']}
+[main] INFO  com.saal.qa.utils.WebEventListener  - Before navigating to: 'http://automationpractice.com'
+[main] INFO  com.saal.qa.utils.WebEventListener  - Navigated to:'http://automationpractice.com'
+[main] INFO  com.saal.qa.utils.WebEventListener  - Trying to find Element By : By.xpath: //a[contains(text(),'Sign in']
+[main] INFO  com.saal.qa.utils.WebEventListener  - Exception Occured:org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //a[contains(text(),'Sign in'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//a[contains(text(),'Sign in']' is not a valid XPath expression.
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AIPL-LT-711', ip: '192.168.1.179', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\ksahoo\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49473}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: 85627147b537bd38dd5ebb697b121377
+*** Element info: {Using=xpath, value=//a[contains(text(),'Sign in']}
+[main] INFO  com.saal.qa.utils.WebEventListener  - Before navigating to: 'http://automationpractice.com'
+[main] INFO  com.saal.qa.utils.WebEventListener  - Navigated to:'http://automationpractice.com'
+[main] INFO  com.saal.qa.utils.WebEventListener  - Before navigating to: 'http://automationpractice.com'
+[main] INFO  com.saal.qa.utils.WebEventListener  - Navigated to:'http://automationpractice.com'
+[main] INFO  com.saal.qa.utils.WebEventListener  - Trying to find Element By : By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a
+[main] INFO  com.saal.qa.utils.WebEventListener  - Found Element By : By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a
+[main] INFO  com.saal.qa.utils.WebEventListener  - Trying to click on: [[ChromeDriver: chrome on XP (fbbe494c8fe7f8aa27cc9936ce5a98ed)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+[main] INFO  com.saal.qa.utils.WebEventListener  - Clicked on: [[ChromeDriver: chrome on XP (fbbe494c8fe7f8aa27cc9936ce5a98ed)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+[main] INFO  com.saal.qa.utils.WebEventListener  - Trying to find Element By : By.name: email
+[main] INFO  com.saal.qa.utils.WebEventListener  - Found Element By : By.name: email
+[main] INFO  com.saal.qa.utils.WebEventListener  - Trying to find Element By : By.name: passwd
+[main] INFO  com.saal.qa.utils.WebEventListener  - Found Element By : By.name: passwd
+[main] INFO  com.saal.qa.utils.WebEventListener  - Trying to find Element By : By.id: SubmitLogin
+[main] INFO  com.saal.qa.utils.WebEventListener  - Found Element By : By.id: SubmitLogin
+[main] INFO  com.saal.qa.utils.WebEventListener  - Trying to click on: [[ChromeDriver: chrome on XP (fbbe494c8fe7f8aa27cc9936ce5a98ed)] -> id: SubmitLogin]
+[main] INFO  com.saal.qa.utils.WebEventListener  - Clicked on: [[ChromeDriver: chrome on XP (fbbe494c8fe7f8aa27cc9936ce5a98ed)] -> id: SubmitLogin]
+[main] INFO  com.saal.qa.utils.WebEventListener  - Before navigating to: 'http://automationpractice.com'
+[main] INFO  com.saal.qa.utils.WebEventListener  - Navigated to:'http://automationpractice.com'
+[main] INFO  com.saal.qa.utils.WebEventListener  - Before navigating to: 'http://automationpractice.com'
+[main] INFO  com.saal.qa.utils.WebEventListener  - Navigated to:'http://automationpractice.com'
+[main] INFO  com.saal.qa.utils.WebEventListener  - Trying to find Element By : By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a
+[main] INFO  com.saal.qa.utils.WebEventListener  - Found Element By : By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a
+[main] INFO  com.saal.qa.utils.WebEventListener  - Trying to click on: [[ChromeDriver: chrome on XP (0c6f77c357eea671aba0a7bd3b6c7350)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+[main] INFO  com.saal.qa.utils.WebEventListener  - Clicked on: [[ChromeDriver: chrome on XP (0c6f77c357eea671aba0a7bd3b6c7350)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+[main] INFO  com.saal.qa.utils.WebEventListener  - Trying to find Element By : By.name: email
+[main] INFO  com.saal.qa.utils.WebEventListener  - Found Element By : By.name: email
+[main] INFO  com.saal.qa.utils.WebEventListener  - Trying to find Element By : By.name: passwd
+[main] INFO  com.saal.qa.utils.WebEventListener  - Found Element By : By.name: passwd
+[main] INFO  com.saal.qa.utils.WebEventListener  - Trying to find Element By : By.id: SubmitLogin
+[main] INFO  com.saal.qa.utils.WebEventListener  - Found Element By : By.id: SubmitLogin
+[main] INFO  com.saal.qa.utils.WebEventListener  - Trying to click on: [[ChromeDriver: chrome on XP (0c6f77c357eea671aba0a7bd3b6c7350)] -> id: SubmitLogin]
+[main] INFO  com.saal.qa.utils.WebEventListener  - Clicked on: [[ChromeDriver: chrome on XP (0c6f77c357eea671aba0a7bd3b6c7350)] -> id: SubmitLogin]

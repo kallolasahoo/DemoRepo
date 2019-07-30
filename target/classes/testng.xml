@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Saal Application Test Automation Suit">
+
+<listeners>
+<listener class_name="com.saal.qa.ExtentReportListner.ExtentReportListner"/>
+</listeners>
+
+  <test name="Saal Application Test cases">
+    <classes>
+    <class name="com.saal.testcases.LoginPageTest"></class>
+      <class name="com.saal.testcases.HomePageTest"></class>
+      <class name="com.saal.testcases.WomenPageTest"></class>
+    </classes>
+  </test> 
+</suite> 
